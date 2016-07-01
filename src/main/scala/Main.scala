@@ -17,7 +17,7 @@ trait HelloApp {
 
   Http().bindAndHandle(
     route,
-    "localhost",
+    "0.0.0.0",
     8080
   )
 }
