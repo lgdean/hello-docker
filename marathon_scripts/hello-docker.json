@@ -14,7 +14,7 @@
         {
           "containerPort": 8080, 
           "hostPort": 0,
-          "servicePort": 10003,
+          "servicePort": 10022,
           "protocol": "tcp"
         }
       ]
